@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0",
+  "modo": "determinista",
+  "estrategia_vigente": {
+    "id": "v1",
+    "version_padre": null,
+    "pesos": {
+      "cumplimiento_lecciones": 0.7,
+      "balance": 0.3
+    },
+    "presupuesto_busqueda": 300,
+    "lecciones": [],
+    "schema_version": "1.0"
+  },
+  "candidatos": [],
+  "rechazo_mecanismo_invalido": true,
+  "nota": "La demo no afirma mejora autónoma si no existe candidato con evidencia suficiente."
+}

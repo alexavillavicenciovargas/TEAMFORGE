@@ -1,0 +1,752 @@
+{
+  "con_memoria": [
+    {
+      "ronda": 1,
+      "tipo": "creativo",
+      "score_promedio": 51.631,
+      "error_perfiles": 0.107,
+      "lecciones": 1
+    },
+    {
+      "ronda": 2,
+      "tipo": "tecnico",
+      "score_promedio": 49.75,
+      "error_perfiles": 0.111,
+      "lecciones": 1
+    },
+    {
+      "ronda": 3,
+      "tipo": "entrega_rapida",
+      "score_promedio": 50.65,
+      "error_perfiles": 0.104,
+      "lecciones": 1
+    },
+    {
+      "ronda": 4,
+      "tipo": "creativo",
+      "score_promedio": 53.017,
+      "error_perfiles": 0.098,
+      "lecciones": 1
+    },
+    {
+      "ronda": 5,
+      "tipo": "tecnico",
+      "score_promedio": 49.355,
+      "error_perfiles": 0.097,
+      "lecciones": 1
+    },
+    {
+      "ronda": 6,
+      "tipo": "entrega_rapida",
+      "score_promedio": 50.358,
+      "error_perfiles": 0.107,
+      "lecciones": 1
+    },
+    {
+      "ronda": 7,
+      "tipo": "creativo",
+      "score_promedio": 51.002,
+      "error_perfiles": 0.091,
+      "lecciones": 1
+    },
+    {
+      "ronda": 8,
+      "tipo": "tecnico",
+      "score_promedio": 49.177,
+      "error_perfiles": 0.096,
+      "lecciones": 1
+    },
+    {
+      "ronda": 9,
+      "tipo": "entrega_rapida",
+      "score_promedio": 49.448,
+      "error_perfiles": 0.095,
+      "lecciones": 2
+    },
+    {
+      "ronda": 10,
+      "tipo": "creativo",
+      "score_promedio": 52.453,
+      "error_perfiles": 0.097,
+      "lecciones": 2
+    }
+  ],
+  "sin_memoria": [
+    {
+      "ronda": 1,
+      "tipo": "creativo",
+      "score_promedio": 51.631,
+      "error_perfiles": 0.083,
+      "lecciones": 0
+    },
+    {
+      "ronda": 2,
+      "tipo": "tecnico",
+      "score_promedio": 49.75,
+      "error_perfiles": 0.083,
+      "lecciones": 0
+    },
+    {
+      "ronda": 3,
+      "tipo": "entrega_rapida",
+      "score_promedio": 50.35,
+      "error_perfiles": 0.083,
+      "lecciones": 0
+    },
+    {
+      "ronda": 4,
+      "tipo": "creativo",
+      "score_promedio": 53.017,
+      "error_perfiles": 0.083,
+      "lecciones": 0
+    },
+    {
+      "ronda": 5,
+      "tipo": "tecnico",
+      "score_promedio": 49.355,
+      "error_perfiles": 0.083,
+      "lecciones": 0
+    },
+    {
+      "ronda": 6,
+      "tipo": "entrega_rapida",
+      "score_promedio": 50.358,
+      "error_perfiles": 0.083,
+      "lecciones": 0
+    },
+    {
+      "ronda": 7,
+      "tipo": "creativo",
+      "score_promedio": 51.002,
+      "error_perfiles": 0.083,
+      "lecciones": 0
+    },
+    {
+      "ronda": 8,
+      "tipo": "tecnico",
+      "score_promedio": 49.177,
+      "error_perfiles": 0.083,
+      "lecciones": 0
+    },
+    {
+      "ronda": 9,
+      "tipo": "entrega_rapida",
+      "score_promedio": 49.748,
+      "error_perfiles": 0.083,
+      "lecciones": 0
+    },
+    {
+      "ronda": 10,
+      "tipo": "creativo",
+      "score_promedio": 52.453,
+      "error_perfiles": 0.083,
+      "lecciones": 0
+    }
+  ],
+  "personas": [
+    {
+      "id": "P001",
+      "nombre": "Perfil 001",
+      "declarado": {
+        "creatividad": 1,
+        "organizacion": 2,
+        "liderazgo": 3,
+        "extroversion": 2,
+        "cumplimiento": 2
+      },
+      "real": {
+        "creatividad": 1,
+        "organizacion": 1,
+        "liderazgo": 3,
+        "extroversion": 2,
+        "cumplimiento": 2
+      },
+      "estimado": {
+        "creatividad": 1.11,
+        "organizacion": 1.195,
+        "liderazgo": 2.984,
+        "extroversion": 2.023,
+        "cumplimiento": 2.131
+      }
+    },
+    {
+      "id": "P002",
+      "nombre": "Perfil 002",
+      "declarado": {
+        "creatividad": 5,
+        "organizacion": 1,
+        "liderazgo": 5,
+        "extroversion": 4,
+        "cumplimiento": 1
+      },
+      "real": {
+        "creatividad": 5,
+        "organizacion": 1,
+        "liderazgo": 5,
+        "extroversion": 4,
+        "cumplimiento": 1
+      },
+      "estimado": {
+        "creatividad": 4.987,
+        "organizacion": 1.149,
+        "liderazgo": 4.986,
+        "extroversion": 4.091,
+        "cumplimiento": 1.067
+      }
+    },
+    {
+      "id": "P003",
+      "nombre": "Perfil 003",
+      "declarado": {
+        "creatividad": 2,
+        "organizacion": 2,
+        "liderazgo": 5,
+        "extroversion": 5,
+        "cumplimiento": 1
+      },
+      "real": {
+        "creatividad": 2,
+        "organizacion": 2,
+        "liderazgo": 5,
+        "extroversion": 5,
+        "cumplimiento": 1
+      },
+      "estimado": {
+        "creatividad": 2.079,
+        "organizacion": 2.078,
+        "liderazgo": 4.827,
+        "extroversion": 4.908,
+        "cumplimiento": 1.187
+      }
+    },
+    {
+      "id": "P004",
+      "nombre": "Perfil 004",
+      "declarado": {
+        "creatividad": 5,
+        "organizacion": 4,
+        "liderazgo": 2,
+        "extroversion": 4,
+        "cumplimiento": 5
+      },
+      "real": {
+        "creatividad": 5,
+        "organizacion": 4,
+        "liderazgo": 2,
+        "extroversion": 4,
+        "cumplimiento": 5
+      },
+      "estimado": {
+        "creatividad": 4.993,
+        "organizacion": 4.162,
+        "liderazgo": 2.019,
+        "extroversion": 3.878,
+        "cumplimiento": 4.903
+      }
+    },
+    {
+      "id": "P005",
+      "nombre": "Perfil 005",
+      "declarado": {
+        "creatividad": 3,
+        "organizacion": 1,
+        "liderazgo": 2,
+        "extroversion": 4,
+        "cumplimiento": 3
+      },
+      "real": {
+        "creatividad": 3,
+        "organizacion": 1,
+        "liderazgo": 2,
+        "extroversion": 4,
+        "cumplimiento": 3
+      },
+      "estimado": {
+        "creatividad": 3.206,
+        "organizacion": 1.162,
+        "liderazgo": 1.963,
+        "extroversion": 3.944,
+        "cumplimiento": 2.895
+      }
+    },
+    {
+      "id": "P006",
+      "nombre": "Perfil 006",
+      "declarado": {
+        "creatividad": 3,
+        "organizacion": 2,
+        "liderazgo": 2,
+        "extroversion": 3,
+        "cumplimiento": 1
+      },
+      "real": {
+        "creatividad": 3,
+        "organizacion": 2,
+        "liderazgo": 2,
+        "extroversion": 3,
+        "cumplimiento": 1
+      },
+      "estimado": {
+        "creatividad": 3.026,
+        "organizacion": 2.005,
+        "liderazgo": 1.838,
+        "extroversion": 3.057,
+        "cumplimiento": 1.183
+      }
+    },
+    {
+      "id": "P007",
+      "nombre": "Perfil 007",
+      "declarado": {
+        "creatividad": 1,
+        "organizacion": 4,
+        "liderazgo": 1,
+        "extroversion": 3,
+        "cumplimiento": 5
+      },
+      "real": {
+        "creatividad": 1,
+        "organizacion": 4,
+        "liderazgo": 1,
+        "extroversion": 3,
+        "cumplimiento": 3
+      },
+      "estimado": {
+        "creatividad": 1.108,
+        "organizacion": 3.91,
+        "liderazgo": 1.059,
+        "extroversion": 3.145,
+        "cumplimiento": 2.947
+      }
+    },
+    {
+      "id": "P008",
+      "nombre": "Perfil 008",
+      "declarado": {
+        "creatividad": 3,
+        "organizacion": 4,
+        "liderazgo": 5,
+        "extroversion": 1,
+        "cumplimiento": 4
+      },
+      "real": {
+        "creatividad": 1,
+        "organizacion": 4,
+        "liderazgo": 5,
+        "extroversion": 1,
+        "cumplimiento": 4
+      },
+      "estimado": {
+        "creatividad": 1.174,
+        "organizacion": 4.014,
+        "liderazgo": 4.767,
+        "extroversion": 1.116,
+        "cumplimiento": 3.977
+      }
+    },
+    {
+      "id": "P009",
+      "nombre": "Perfil 009",
+      "declarado": {
+        "creatividad": 4,
+        "organizacion": 3,
+        "liderazgo": 5,
+        "extroversion": 2,
+        "cumplimiento": 1
+      },
+      "real": {
+        "creatividad": 5,
+        "organizacion": 3,
+        "liderazgo": 5,
+        "extroversion": 2,
+        "cumplimiento": 1
+      },
+      "estimado": {
+        "creatividad": 4.936,
+        "organizacion": 3.134,
+        "liderazgo": 4.978,
+        "extroversion": 2.045,
+        "cumplimiento": 1.064
+      }
+    },
+    {
+      "id": "P010",
+      "nombre": "Perfil 010",
+      "declarado": {
+        "creatividad": 3,
+        "organizacion": 1,
+        "liderazgo": 2,
+        "extroversion": 1,
+        "cumplimiento": 4
+      },
+      "real": {
+        "creatividad": 3,
+        "organizacion": 1,
+        "liderazgo": 2,
+        "extroversion": 1,
+        "cumplimiento": 4
+      },
+      "estimado": {
+        "creatividad": 3.045,
+        "organizacion": 1.074,
+        "liderazgo": 1.847,
+        "extroversion": 1.067,
+        "cumplimiento": 4.062
+      }
+    },
+    {
+      "id": "P011",
+      "nombre": "Perfil 011",
+      "declarado": {
+        "creatividad": 3,
+        "organizacion": 4,
+        "liderazgo": 3,
+        "extroversion": 2,
+        "cumplimiento": 3
+      },
+      "real": {
+        "creatividad": 3,
+        "organizacion": 4,
+        "liderazgo": 3,
+        "extroversion": 2,
+        "cumplimiento": 3
+      },
+      "estimado": {
+        "creatividad": 2.976,
+        "organizacion": 4.094,
+        "liderazgo": 3.061,
+        "extroversion": 1.988,
+        "cumplimiento": 3.078
+      }
+    },
+    {
+      "id": "P012",
+      "nombre": "Perfil 012",
+      "declarado": {
+        "creatividad": 3,
+        "organizacion": 2,
+        "liderazgo": 3,
+        "extroversion": 1,
+        "cumplimiento": 5
+      },
+      "real": {
+        "creatividad": 3,
+        "organizacion": 2,
+        "liderazgo": 3,
+        "extroversion": 1,
+        "cumplimiento": 5
+      },
+      "estimado": {
+        "creatividad": 2.882,
+        "organizacion": 1.895,
+        "liderazgo": 2.939,
+        "extroversion": 1.04,
+        "cumplimiento": 4.813
+      }
+    },
+    {
+      "id": "P013",
+      "nombre": "Perfil 013",
+      "declarado": {
+        "creatividad": 2,
+        "organizacion": 5,
+        "liderazgo": 2,
+        "extroversion": 4,
+        "cumplimiento": 4
+      },
+      "real": {
+        "creatividad": 2,
+        "organizacion": 5,
+        "liderazgo": 2,
+        "extroversion": 2,
+        "cumplimiento": 4
+      },
+      "estimado": {
+        "creatividad": 2.034,
+        "organizacion": 4.919,
+        "liderazgo": 2.031,
+        "extroversion": 2.016,
+        "cumplimiento": 3.992
+      }
+    },
+    {
+      "id": "P014",
+      "nombre": "Perfil 014",
+      "declarado": {
+        "creatividad": 5,
+        "organizacion": 2,
+        "liderazgo": 3,
+        "extroversion": 1,
+        "cumplimiento": 2
+      },
+      "real": {
+        "creatividad": 5,
+        "organizacion": 2,
+        "liderazgo": 3,
+        "extroversion": 1,
+        "cumplimiento": 2
+      },
+      "estimado": {
+        "creatividad": 4.966,
+        "organizacion": 1.85,
+        "liderazgo": 3.106,
+        "extroversion": 1.082,
+        "cumplimiento": 1.965
+      }
+    },
+    {
+      "id": "P015",
+      "nombre": "Perfil 015",
+      "declarado": {
+        "creatividad": 4,
+        "organizacion": 3,
+        "liderazgo": 1,
+        "extroversion": 2,
+        "cumplimiento": 5
+      },
+      "real": {
+        "creatividad": 4,
+        "organizacion": 3,
+        "liderazgo": 1,
+        "extroversion": 2,
+        "cumplimiento": 5
+      },
+      "estimado": {
+        "creatividad": 3.877,
+        "organizacion": 3.195,
+        "liderazgo": 1.075,
+        "extroversion": 2.075,
+        "cumplimiento": 4.729
+      }
+    },
+    {
+      "id": "P016",
+      "nombre": "Perfil 016",
+      "declarado": {
+        "creatividad": 4,
+        "organizacion": 4,
+        "liderazgo": 4,
+        "extroversion": 2,
+        "cumplimiento": 3
+      },
+      "real": {
+        "creatividad": 4,
+        "organizacion": 4,
+        "liderazgo": 4,
+        "extroversion": 2,
+        "cumplimiento": 3
+      },
+      "estimado": {
+        "creatividad": 3.924,
+        "organizacion": 4.008,
+        "liderazgo": 3.913,
+        "extroversion": 1.963,
+        "cumplimiento": 3.171
+      }
+    },
+    {
+      "id": "P017",
+      "nombre": "Perfil 017",
+      "declarado": {
+        "creatividad": 2,
+        "organizacion": 2,
+        "liderazgo": 5,
+        "extroversion": 5,
+        "cumplimiento": 3
+      },
+      "real": {
+        "creatividad": 2,
+        "organizacion": 2,
+        "liderazgo": 5,
+        "extroversion": 5,
+        "cumplimiento": 3
+      },
+      "estimado": {
+        "creatividad": 1.917,
+        "organizacion": 1.904,
+        "liderazgo": 4.97,
+        "extroversion": 4.878,
+        "cumplimiento": 3.114
+      }
+    },
+    {
+      "id": "P018",
+      "nombre": "Perfil 018",
+      "declarado": {
+        "creatividad": 5,
+        "organizacion": 4,
+        "liderazgo": 5,
+        "extroversion": 4,
+        "cumplimiento": 3
+      },
+      "real": {
+        "creatividad": 5,
+        "organizacion": 4,
+        "liderazgo": 5,
+        "extroversion": 4,
+        "cumplimiento": 3
+      },
+      "estimado": {
+        "creatividad": 4.847,
+        "organizacion": 3.878,
+        "liderazgo": 4.927,
+        "extroversion": 4.023,
+        "cumplimiento": 2.996
+      }
+    },
+    {
+      "id": "P019",
+      "nombre": "Perfil 019",
+      "declarado": {
+        "creatividad": 3,
+        "organizacion": 2,
+        "liderazgo": 5,
+        "extroversion": 4,
+        "cumplimiento": 1
+      },
+      "real": {
+        "creatividad": 2,
+        "organizacion": 2,
+        "liderazgo": 5,
+        "extroversion": 4,
+        "cumplimiento": 1
+      },
+      "estimado": {
+        "creatividad": 1.817,
+        "organizacion": 2.121,
+        "liderazgo": 4.691,
+        "extroversion": 3.976,
+        "cumplimiento": 1.141
+      }
+    },
+    {
+      "id": "P020",
+      "nombre": "Perfil 020",
+      "declarado": {
+        "creatividad": 2,
+        "organizacion": 2,
+        "liderazgo": 4,
+        "extroversion": 5,
+        "cumplimiento": 1
+      },
+      "real": {
+        "creatividad": 2,
+        "organizacion": 2,
+        "liderazgo": 4,
+        "extroversion": 5,
+        "cumplimiento": 1
+      },
+      "estimado": {
+        "creatividad": 1.791,
+        "organizacion": 2.149,
+        "liderazgo": 4.138,
+        "extroversion": 4.933,
+        "cumplimiento": 1.323
+      }
+    },
+    {
+      "id": "P021",
+      "nombre": "Perfil 021",
+      "declarado": {
+        "creatividad": 4,
+        "organizacion": 4,
+        "liderazgo": 5,
+        "extroversion": 3,
+        "cumplimiento": 5
+      },
+      "real": {
+        "creatividad": 5,
+        "organizacion": 4,
+        "liderazgo": 5,
+        "extroversion": 3,
+        "cumplimiento": 5
+      },
+      "estimado": {
+        "creatividad": 4.764,
+        "organizacion": 3.719,
+        "liderazgo": 4.932,
+        "extroversion": 2.957,
+        "cumplimiento": 4.877
+      }
+    },
+    {
+      "id": "P022",
+      "nombre": "Perfil 022",
+      "declarado": {
+        "creatividad": 5,
+        "organizacion": 3,
+        "liderazgo": 3,
+        "extroversion": 1,
+        "cumplimiento": 3
+      },
+      "real": {
+        "creatividad": 5,
+        "organizacion": 3,
+        "liderazgo": 3,
+        "extroversion": 1,
+        "cumplimiento": 3
+      },
+      "estimado": {
+        "creatividad": 4.904,
+        "organizacion": 3.105,
+        "liderazgo": 3.107,
+        "extroversion": 1.061,
+        "cumplimiento": 3.144
+      }
+    },
+    {
+      "id": "P023",
+      "nombre": "Perfil 023",
+      "declarado": {
+        "creatividad": 4,
+        "organizacion": 2,
+        "liderazgo": 4,
+        "extroversion": 1,
+        "cumplimiento": 3
+      },
+      "real": {
+        "creatividad": 4,
+        "organizacion": 2,
+        "liderazgo": 4,
+        "extroversion": 1,
+        "cumplimiento": 3
+      },
+      "estimado": {
+        "creatividad": 4.212,
+        "organizacion": 2.029,
+        "liderazgo": 3.993,
+        "extroversion": 1.103,
+        "cumplimiento": 3.018
+      }
+    },
+    {
+      "id": "P024",
+      "nombre": "Perfil 024",
+      "declarado": {
+        "creatividad": 5,
+        "organizacion": 2,
+        "liderazgo": 5,
+        "extroversion": 1,
+        "cumplimiento": 3
+      },
+      "real": {
+        "creatividad": 5,
+        "organizacion": 2,
+        "liderazgo": 5,
+        "extroversion": 1,
+        "cumplimiento": 3
+      },
+      "estimado": {
+        "creatividad": 4.953,
+        "organizacion": 1.87,
+        "liderazgo": 4.845,
+        "extroversion": 1.052,
+        "cumplimiento": 3.153
+      }
+    }
+  ],
+  "reglas_ocultas": [
+    "El simulador premia combinaciones distintas por tipo de proyecto.",
+    "Los perfiles reales solo son accesibles al simulador y al cálculo de error."
+  ]
+}

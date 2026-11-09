@@ -1,0 +1,26 @@
+[
+  {
+    "id": "L0001",
+    "tipo_proyecto": "entrega_rapida",
+    "rasgo": "liderazgo",
+    "umbral": 4,
+    "operador": "max",
+    "cantidad": 3,
+    "texto": "Hipótesis: al menos 3 integrantes con liderazgo >= 4; diferencia observada 9.2 puntos.",
+    "veces_vista": 0,
+    "veces_aplicada": 0,
+    "veces_ayudo": 0
+  },
+  {
+    "id": "L0002",
+    "tipo_proyecto": "entrega_rapida",
+    "rasgo": "liderazgo",
+    "umbral": 4,
+    "operador": "max",
+    "cantidad": 2,
+    "texto": "Hipótesis: al menos 2 integrantes con liderazgo >= 4; diferencia observada 8.7 puntos.",
+    "veces_vista": 0,
+    "veces_aplicada": 0,
+    "veces_ayudo": 0
+  }
+]

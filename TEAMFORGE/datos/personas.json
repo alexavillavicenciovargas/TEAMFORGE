@@ -1,0 +1,602 @@
+[
+  {
+    "id": "P001",
+    "nombre": "Perfil 001",
+    "declarado": {
+      "creatividad": 1,
+      "organizacion": 2,
+      "liderazgo": 3,
+      "extroversion": 2,
+      "cumplimiento": 2
+    },
+    "real": {
+      "creatividad": 1,
+      "organizacion": 1,
+      "liderazgo": 3,
+      "extroversion": 2,
+      "cumplimiento": 2
+    },
+    "estimado": {
+      "creatividad": 1,
+      "organizacion": 2,
+      "liderazgo": 3,
+      "extroversion": 2,
+      "cumplimiento": 2
+    }
+  },
+  {
+    "id": "P002",
+    "nombre": "Perfil 002",
+    "declarado": {
+      "creatividad": 5,
+      "organizacion": 1,
+      "liderazgo": 5,
+      "extroversion": 4,
+      "cumplimiento": 1
+    },
+    "real": {
+      "creatividad": 5,
+      "organizacion": 1,
+      "liderazgo": 5,
+      "extroversion": 4,
+      "cumplimiento": 1
+    },
+    "estimado": {
+      "creatividad": 5,
+      "organizacion": 1,
+      "liderazgo": 5,
+      "extroversion": 4,
+      "cumplimiento": 1
+    }
+  },
+  {
+    "id": "P003",
+    "nombre": "Perfil 003",
+    "declarado": {
+      "creatividad": 2,
+      "organizacion": 2,
+      "liderazgo": 5,
+      "extroversion": 5,
+      "cumplimiento": 1
+    },
+    "real": {
+      "creatividad": 2,
+      "organizacion": 2,
+      "liderazgo": 5,
+      "extroversion": 5,
+      "cumplimiento": 1
+    },
+    "estimado": {
+      "creatividad": 2,
+      "organizacion": 2,
+      "liderazgo": 5,
+      "extroversion": 5,
+      "cumplimiento": 1
+    }
+  },
+  {
+    "id": "P004",
+    "nombre": "Perfil 004",
+    "declarado": {
+      "creatividad": 5,
+      "organizacion": 4,
+      "liderazgo": 2,
+      "extroversion": 4,
+      "cumplimiento": 5
+    },
+    "real": {
+      "creatividad": 5,
+      "organizacion": 4,
+      "liderazgo": 2,
+      "extroversion": 4,
+      "cumplimiento": 5
+    },
+    "estimado": {
+      "creatividad": 5,
+      "organizacion": 4,
+      "liderazgo": 2,
+      "extroversion": 4,
+      "cumplimiento": 5
+    }
+  },
+  {
+    "id": "P005",
+    "nombre": "Perfil 005",
+    "declarado": {
+      "creatividad": 3,
+      "organizacion": 1,
+      "liderazgo": 2,
+      "extroversion": 4,
+      "cumplimiento": 3
+    },
+    "real": {
+      "creatividad": 3,
+      "organizacion": 1,
+      "liderazgo": 2,
+      "extroversion": 4,
+      "cumplimiento": 3
+    },
+    "estimado": {
+      "creatividad": 3,
+      "organizacion": 1,
+      "liderazgo": 2,
+      "extroversion": 4,
+      "cumplimiento": 3
+    }
+  },
+  {
+    "id": "P006",
+    "nombre": "Perfil 006",
+    "declarado": {
+      "creatividad": 3,
+      "organizacion": 2,
+      "liderazgo": 2,
+      "extroversion": 3,
+      "cumplimiento": 1
+    },
+    "real": {
+      "creatividad": 3,
+      "organizacion": 2,
+      "liderazgo": 2,
+      "extroversion": 3,
+      "cumplimiento": 1
+    },
+    "estimado": {
+      "creatividad": 3,
+      "organizacion": 2,
+      "liderazgo": 2,
+      "extroversion": 3,
+      "cumplimiento": 1
+    }
+  },
+  {
+    "id": "P007",
+    "nombre": "Perfil 007",
+    "declarado": {
+      "creatividad": 1,
+      "organizacion": 4,
+      "liderazgo": 1,
+      "extroversion": 3,
+      "cumplimiento": 5
+    },
+    "real": {
+      "creatividad": 1,
+      "organizacion": 4,
+      "liderazgo": 1,
+      "extroversion": 3,
+      "cumplimiento": 3
+    },
+    "estimado": {
+      "creatividad": 1,
+      "organizacion": 4,
+      "liderazgo": 1,
+      "extroversion": 3,
+      "cumplimiento": 5
+    }
+  },
+  {
+    "id": "P008",
+    "nombre": "Perfil 008",
+    "declarado": {
+      "creatividad": 3,
+      "organizacion": 4,
+      "liderazgo": 5,
+      "extroversion": 1,
+      "cumplimiento": 4
+    },
+    "real": {
+      "creatividad": 1,
+      "organizacion": 4,
+      "liderazgo": 5,
+      "extroversion": 1,
+      "cumplimiento": 4
+    },
+    "estimado": {
+      "creatividad": 3,
+      "organizacion": 4,
+      "liderazgo": 5,
+      "extroversion": 1,
+      "cumplimiento": 4
+    }
+  },
+  {
+    "id": "P009",
+    "nombre": "Perfil 009",
+    "declarado": {
+      "creatividad": 4,
+      "organizacion": 3,
+      "liderazgo": 5,
+      "extroversion": 2,
+      "cumplimiento": 1
+    },
+    "real": {
+      "creatividad": 5,
+      "organizacion": 3,
+      "liderazgo": 5,
+      "extroversion": 2,
+      "cumplimiento": 1
+    },
+    "estimado": {
+      "creatividad": 4,
+      "organizacion": 3,
+      "liderazgo": 5,
+      "extroversion": 2,
+      "cumplimiento": 1
+    }
+  },
+  {
+    "id": "P010",
+    "nombre": "Perfil 010",
+    "declarado": {
+      "creatividad": 3,
+      "organizacion": 1,
+      "liderazgo": 2,
+      "extroversion": 1,
+      "cumplimiento": 4
+    },
+    "real": {
+      "creatividad": 3,
+      "organizacion": 1,
+      "liderazgo": 2,
+      "extroversion": 1,
+      "cumplimiento": 4
+    },
+    "estimado": {
+      "creatividad": 3,
+      "organizacion": 1,
+      "liderazgo": 2,
+      "extroversion": 1,
+      "cumplimiento": 4
+    }
+  },
+  {
+    "id": "P011",
+    "nombre": "Perfil 011",
+    "declarado": {
+      "creatividad": 3,
+      "organizacion": 4,
+      "liderazgo": 3,
+      "extroversion": 2,
+      "cumplimiento": 3
+    },
+    "real": {
+      "creatividad": 3,
+      "organizacion": 4,
+      "liderazgo": 3,
+      "extroversion": 2,
+      "cumplimiento": 3
+    },
+    "estimado": {
+      "creatividad": 3,
+      "organizacion": 4,
+      "liderazgo": 3,
+      "extroversion": 2,
+      "cumplimiento": 3
+    }
+  },
+  {
+    "id": "P012",
+    "nombre": "Perfil 012",
+    "declarado": {
+      "creatividad": 3,
+      "organizacion": 2,
+      "liderazgo": 3,
+      "extroversion": 1,
+      "cumplimiento": 5
+    },
+    "real": {
+      "creatividad": 3,
+      "organizacion": 2,
+      "liderazgo": 3,
+      "extroversion": 1,
+      "cumplimiento": 5
+    },
+    "estimado": {
+      "creatividad": 3,
+      "organizacion": 2,
+      "liderazgo": 3,
+      "extroversion": 1,
+      "cumplimiento": 5
+    }
+  },
+  {
+    "id": "P013",
+    "nombre": "Perfil 013",
+    "declarado": {
+      "creatividad": 2,
+      "organizacion": 5,
+      "liderazgo": 2,
+      "extroversion": 4,
+      "cumplimiento": 4
+    },
+    "real": {
+      "creatividad": 2,
+      "organizacion": 5,
+      "liderazgo": 2,
+      "extroversion": 2,
+      "cumplimiento": 4
+    },
+    "estimado": {
+      "creatividad": 2,
+      "organizacion": 5,
+      "liderazgo": 2,
+      "extroversion": 4,
+      "cumplimiento": 4
+    }
+  },
+  {
+    "id": "P014",
+    "nombre": "Perfil 014",
+    "declarado": {
+      "creatividad": 5,
+      "organizacion": 2,
+      "liderazgo": 3,
+      "extroversion": 1,
+      "cumplimiento": 2
+    },
+    "real": {
+      "creatividad": 5,
+      "organizacion": 2,
+      "liderazgo": 3,
+      "extroversion": 1,
+      "cumplimiento": 2
+    },
+    "estimado": {
+      "creatividad": 5,
+      "organizacion": 2,
+      "liderazgo": 3,
+      "extroversion": 1,
+      "cumplimiento": 2
+    }
+  },
+  {
+    "id": "P015",
+    "nombre": "Perfil 015",
+    "declarado": {
+      "creatividad": 4,
+      "organizacion": 3,
+      "liderazgo": 1,
+      "extroversion": 2,
+      "cumplimiento": 5
+    },
+    "real": {
+      "creatividad": 4,
+      "organizacion": 3,
+      "liderazgo": 1,
+      "extroversion": 2,
+      "cumplimiento": 5
+    },
+    "estimado": {
+      "creatividad": 4,
+      "organizacion": 3,
+      "liderazgo": 1,
+      "extroversion": 2,
+      "cumplimiento": 5
+    }
+  },
+  {
+    "id": "P016",
+    "nombre": "Perfil 016",
+    "declarado": {
+      "creatividad": 4,
+      "organizacion": 4,
+      "liderazgo": 4,
+      "extroversion": 2,
+      "cumplimiento": 3
+    },
+    "real": {
+      "creatividad": 4,
+      "organizacion": 4,
+      "liderazgo": 4,
+      "extroversion": 2,
+      "cumplimiento": 3
+    },
+    "estimado": {
+      "creatividad": 4,
+      "organizacion": 4,
+      "liderazgo": 4,
+      "extroversion": 2,
+      "cumplimiento": 3
+    }
+  },
+  {
+    "id": "P017",
+    "nombre": "Perfil 017",
+    "declarado": {
+      "creatividad": 2,
+      "organizacion": 2,
+      "liderazgo": 5,
+      "extroversion": 5,
+      "cumplimiento": 3
+    },
+    "real": {
+      "creatividad": 2,
+      "organizacion": 2,
+      "liderazgo": 5,
+      "extroversion": 5,
+      "cumplimiento": 3
+    },
+    "estimado": {
+      "creatividad": 2,
+      "organizacion": 2,
+      "liderazgo": 5,
+      "extroversion": 5,
+      "cumplimiento": 3
+    }
+  },
+  {
+    "id": "P018",
+    "nombre": "Perfil 018",
+    "declarado": {
+      "creatividad": 5,
+      "organizacion": 4,
+      "liderazgo": 5,
+      "extroversion": 4,
+      "cumplimiento": 3
+    },
+    "real": {
+      "creatividad": 5,
+      "organizacion": 4,
+      "liderazgo": 5,
+      "extroversion": 4,
+      "cumplimiento": 3
+    },
+    "estimado": {
+      "creatividad": 5,
+      "organizacion": 4,
+      "liderazgo": 5,
+      "extroversion": 4,
+      "cumplimiento": 3
+    }
+  },
+  {
+    "id": "P019",
+    "nombre": "Perfil 019",
+    "declarado": {
+      "creatividad": 3,
+      "organizacion": 2,
+      "liderazgo": 5,
+      "extroversion": 4,
+      "cumplimiento": 1
+    },
+    "real": {
+      "creatividad": 2,
+      "organizacion": 2,
+      "liderazgo": 5,
+      "extroversion": 4,
+      "cumplimiento": 1
+    },
+    "estimado": {
+      "creatividad": 3,
+      "organizacion": 2,
+      "liderazgo": 5,
+      "extroversion": 4,
+      "cumplimiento": 1
+    }
+  },
+  {
+    "id": "P020",
+    "nombre": "Perfil 020",
+    "declarado": {
+      "creatividad": 2,
+      "organizacion": 2,
+      "liderazgo": 4,
+      "extroversion": 5,
+      "cumplimiento": 1
+    },
+    "real": {
+      "creatividad": 2,
+      "organizacion": 2,
+      "liderazgo": 4,
+      "extroversion": 5,
+      "cumplimiento": 1
+    },
+    "estimado": {
+      "creatividad": 2,
+      "organizacion": 2,
+      "liderazgo": 4,
+      "extroversion": 5,
+      "cumplimiento": 1
+    }
+  },
+  {
+    "id": "P021",
+    "nombre": "Perfil 021",
+    "declarado": {
+      "creatividad": 4,
+      "organizacion": 4,
+      "liderazgo": 5,
+      "extroversion": 3,
+      "cumplimiento": 5
+    },
+    "real": {
+      "creatividad": 5,
+      "organizacion": 4,
+      "liderazgo": 5,
+      "extroversion": 3,
+      "cumplimiento": 5
+    },
+    "estimado": {
+      "creatividad": 4,
+      "organizacion": 4,
+      "liderazgo": 5,
+      "extroversion": 3,
+      "cumplimiento": 5
+    }
+  },
+  {
+    "id": "P022",
+    "nombre": "Perfil 022",
+    "declarado": {
+      "creatividad": 5,
+      "organizacion": 3,
+      "liderazgo": 3,
+      "extroversion": 1,
+      "cumplimiento": 3
+    },
+    "real": {
+      "creatividad": 5,
+      "organizacion": 3,
+      "liderazgo": 3,
+      "extroversion": 1,
+      "cumplimiento": 3
+    },
+    "estimado": {
+      "creatividad": 5,
+      "organizacion": 3,
+      "liderazgo": 3,
+      "extroversion": 1,
+      "cumplimiento": 3
+    }
+  },
+  {
+    "id": "P023",
+    "nombre": "Perfil 023",
+    "declarado": {
+      "creatividad": 4,
+      "organizacion": 2,
+      "liderazgo": 4,
+      "extroversion": 1,
+      "cumplimiento": 3
+    },
+    "real": {
+      "creatividad": 4,
+      "organizacion": 2,
+      "liderazgo": 4,
+      "extroversion": 1,
+      "cumplimiento": 3
+    },
+    "estimado": {
+      "creatividad": 4,
+      "organizacion": 2,
+      "liderazgo": 4,
+      "extroversion": 1,
+      "cumplimiento": 3
+    }
+  },
+  {
+    "id": "P024",
+    "nombre": "Perfil 024",
+    "declarado": {
+      "creatividad": 5,
+      "organizacion": 2,
+      "liderazgo": 5,
+      "extroversion": 1,
+      "cumplimiento": 3
+    },
+    "real": {
+      "creatividad": 5,
+      "organizacion": 2,
+      "liderazgo": 5,
+      "extroversion": 1,
+      "cumplimiento": 3
+    },
+    "estimado": {
+      "creatividad": 5,
+      "organizacion": 2,
+      "liderazgo": 5,
+      "extroversion": 1,
+      "cumplimiento": 3
+    }
+  }
+]
